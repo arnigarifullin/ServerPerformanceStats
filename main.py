@@ -1,2 +1,2 @@
 import psutil
-psutil.cpu_times()
+print(psutil.cpu_times())

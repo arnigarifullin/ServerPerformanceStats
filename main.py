@@ -8,5 +8,5 @@ def main_usage(cpu_usage, memory_usage):
 
 
 while True:
-    main_usage(psutil.cpu_percent, psutil.virtual_memory.percent)
+    main_usage(psutil.cpu_percent(), psutil.virtual_memory().percent)
     time.sleep(1.0)

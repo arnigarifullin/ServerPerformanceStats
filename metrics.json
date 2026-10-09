@@ -1,0 +1,71 @@
+{
+    "timestamp": "16:31:27 2026-10-09",
+    "system_summary": {
+        "total_cpu_percent": 6.3,
+        "total_ram_percent": 72.6
+    },
+    "cpu_top_5": [
+        {
+            "pid": 0,
+            "name": "System Idle Process",
+            "cpu_percent": 1128.4,
+            "memory_percent": 4.789994659155955e-05
+        },
+        {
+            "pid": 13368,
+            "name": "Code.exe",
+            "cpu_percent": 10.1,
+            "memory_percent": 1.9086212718872817
+        },
+        {
+            "pid": 14156,
+            "name": "explorer.exe",
+            "cpu_percent": 10.1,
+            "memory_percent": 2.174058825924409
+        },
+        {
+            "pid": 17892,
+            "name": "dwm.exe",
+            "cpu_percent": 7.0,
+            "memory_percent": 0.7265463899007752
+        },
+        {
+            "pid": 10620,
+            "name": "Code.exe",
+            "cpu_percent": 6.4,
+            "memory_percent": 0.7962168622181987
+        }
+    ],
+    "ram_top_5": [
+        {
+            "pid": 2836,
+            "name": "MemCompression",
+            "cpu_percent": 0.0,
+            "memory_percent": 5.902470918744926
+        },
+        {
+            "pid": 17232,
+            "name": "chrome.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 3.4983246993679598
+        },
+        {
+            "pid": 10548,
+            "name": "chrome.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 3.3112993579012158
+        },
+        {
+            "pid": 4832,
+            "name": "Code.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 3.116490275113343
+        },
+        {
+            "pid": 3916,
+            "name": "MsMpEng.exe",
+            "cpu_percent": 1.4,
+            "memory_percent": 2.4851689790365885
+        }
+    ]
+}
